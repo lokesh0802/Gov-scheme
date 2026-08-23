@@ -1,0 +1,21 @@
+# OS junk
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Env / secrets
+.env
+.env.*
+
+# Generated data / vector store
+data/chroma/
+web-scraping/4000_data.csv
+
+# Logs
+*.log

@@ -1,0 +1,16 @@
+{
+  "ff585ef6-82dc-4054-a38f-818aeaa5cab3": {
+    "id": "ff585ef6-82dc-4054-a38f-818aeaa5cab3",
+    "name": "govsms",
+    "status": "created",
+    "phone": null,
+    "pushName": null,
+    "config": {},
+    "proxyUrl": null,
+    "proxyType": null,
+    "connectedAt": null,
+    "lastActiveAt": null,
+    "createdAt": "2026-06-24T06:56:12.000Z",
+    "updatedAt": "2026-06-24T06:56:12.000Z"
+  }
+}

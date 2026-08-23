@@ -1,0 +1,829 @@
+{
+  "121264207343725@lid": {
+    "chat_id": "121264207343725@lid",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hi"
+      },
+      {
+        "role": "assistant",
+        "content": "Welcome back! 👋\n\nI can help you search schemes, check eligibility, compare options, or guide you on how to apply.\n\nType *help* for examples, or ask your question directly."
+      },
+      {
+        "role": "user",
+        "content": "hlo"
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. Long Term Fellowship under the Human Resource Development Programme for Health Research*\n📍 All | Central\n• Mode: Online URL: > *For scheme/call for proposals related queries:* > *For website/online submission-related queries:*\n🔗 https://www.myscheme.gov.in/schemes/ltfhrdphr\n\n*2. Rehabilitation Assistance- Haryana Silicosis Board*\n📍 Haryana | State\n• Mode: Online URL: > __*Apply for scheme benefits:*__ Mode: Offline URL: > *Registration under the Haryana Silicosis Boar…\n🔗 https://www.myscheme.gov.in/schemes/ra-hsb\n\n*3. LIDCOM Education Loan Scheme*\n📍 Maharashtra | State\n• Mode: Offline URL: *Step 1: *Take the format of the application form from the District Office\n• 🔗 https://lidcom.co.in/con…\n🔗 https://www.myscheme.gov.in/schemes/lels\n\n*4. Professional and Self Employment Scheme (HSFDC)*\n📍 Haryana | State\n• Mode: Online URL: > __*Registration Process on Haryana Scheduled Castes Finance and Development Corporation:*__ > __*Log…\n🔗 https://www.myscheme.gov.in/schemes/pseshsfdc\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      },
+      {
+        "role": "user",
+        "content": "hi"
+      },
+      {
+        "role": "assistant",
+        "content": "Welcome back! 👋\n\nI can help you search schemes, check eligibility, compare options, or guide you on how to apply.\n\nType *help* for examples, or ask your question directly."
+      },
+      {
+        "role": "user",
+        "content": "hi"
+      },
+      {
+        "role": "assistant",
+        "content": "Welcome back! 👋\n\nI can help you search schemes, check eligibility, compare options, or guide you on how to apply.\n\nType *help* for examples, or ask your question directly."
+      },
+      {
+        "role": "user",
+        "content": "hi"
+      },
+      {
+        "role": "assistant",
+        "content": "Welcome back! 👋\n\nI can help you search schemes, check eligibility, compare options, or guide you on how to apply.\n\nType *help* for examples, or ask your question directly."
+      },
+      {
+        "role": "user",
+        "content": "schemes"
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. Bankable Scheme*\n📍 Gujarat | State\n• The \"Bankable Scheme\" is implemented by the Gujarat Scheduled Caste Development Corporation (GSCDC) under the Social Jus…\n🔗 https://www.myscheme.gov.in/schemes/bsg\n\n*2. Design Scheme Under MSME Innovative Scheme*\n📍 All | Central\n• The &quot;Design scheme&quot; under the &quot;MSME Innovative Scheme&quot; implemented by the Ministry of Micro, Small &…\n🔗 https://www.myscheme.gov.in/schemes/ds\n\n*3. Loan Based Schemes For Safai Karamchari - Sanitary Marts Scheme*\n📍 All | Central\n• The \"Sanitary Marts Scheme\" has been launched by the Ministry of Social Justice and Empowerment, Government of India and…\n🔗 https://www.myscheme.gov.in/schemes/lbssk-sms\n\n*4. A Scheme to Provide Assistance for Building E-Market Facilities in Market Committees*\n📍 Gujarat | State\n• \"A Scheme to Provide Assistance for Building E-Market Facilities in Market Committees\" introduced by the Agriculture, Fa…\n🔗 https://www.myscheme.gov.in/schemes/spabem\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      }
+    ],
+    "active_scheme_slug": null,
+    "last_search_slugs": [
+      "bsg",
+      "ds",
+      "lbssk-sms",
+      "spabem",
+      "sesip"
+    ],
+    "user_profile": {
+      "state": null,
+      "age": null,
+      "gender": null,
+      "category": null,
+      "occupation": null
+    },
+    "updated_at": "2026-07-10T12:34:43.102958+00:00"
+  },
+  "lg-full-test": {
+    "chat_id": "lg-full-test",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hi"
+      },
+      {
+        "role": "assistant",
+        "content": "👋 *Namaste! I am GovScheme Assistant* 🇮🇳\n\nYou can ask me about *4,000+ government schemes* from myscheme.gov.in.\n\n*📋 You can ask about schemes in these areas:*\n\n🎓 *Education* — scholarships, student loans, courses\n🌾 *Agriculture* — farmer subsidies, crop loans, PM-KISAN\n💼 *Business* — startup loans, MSME, Stand-Up India\n🛠️ *Skills & Jobs* — training, youth employment\n👩 *Women & Child* — maternity, girl child welfare\n🤝 *Social Welfare* — SC/ST/OBC benefits, pensions\n💰 *Loans & Finance* — bank loans, microfinance\n🏠 *Health & Housing* — insurance, housing support\n\n*💬 You can ask me things like:*\n• \"scholarship for SC students in Karnataka\"\n• \"loan for women entrepreneurs\"\n• \"agricultural schemes in Gujarat\"\n• \"tell me about Stand-Up India\"\n• \"am I eligible? I am 22, SC, Karnataka\"\n• \"compare Stand-Up India vs MUDRA\"\n• \"how to apply for PM-KISAN?\"\n\n*🔎 What I can do:*\nSearch • Details • Eligibility • How to apply • Compare schemes\n\n👉 *Send your question now!* Example:\n_\"agricultural schemes for farmers in Gujarat\"_"
+      }
+    ],
+    "active_scheme_slug": null,
+    "last_search_slugs": [],
+    "user_profile": {
+      "state": null,
+      "age": null,
+      "gender": null,
+      "category": null,
+      "occupation": null
+    },
+    "updated_at": "2026-06-28T10:59:18.394539+00:00"
+  },
+  "162452943708331@lid": {
+    "chat_id": "162452943708331@lid",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hi"
+      },
+      {
+        "role": "assistant",
+        "content": "👋 *Namaste! I am GovScheme Assistant* 🇮🇳\n\nYou can ask me about *4,000+ government schemes* from myscheme.gov.in.\n\n*📋 You can ask about schemes in these areas:*\n\n🎓 *Education* — scholarships, student loans, courses\n🌾 *Agriculture* — farmer subsidies, crop loans, PM-KISAN\n💼 *Business* — startup loans, MSME, Stand-Up India\n🛠️ *Skills & Jobs* — training, youth employment\n👩 *Women & Child* — maternity, girl child welfare\n🤝 *Social Welfare* — SC/ST/OBC benefits, pensions\n💰 *Loans & Finance* — bank loans, microfinance\n🏠 *Health & Housing* — insurance, housing support\n\n*💬 You can ask me things like:*\n• \"scholarship for SC students in Karnataka\"\n• \"loan for women entrepreneurs\"\n• \"agricultural schemes in Gujarat\"\n• \"tell me about Stand-Up India\"\n• \"am I eligible? I am 22, SC, Karnataka\"\n• \"compare Stand-Up India vs MUDRA\"\n• \"how to apply for PM-KISAN?\"\n\n*🔎 What I can do:*\nSearch • Details • Eligibility • How to apply • Compare schemes\n\n👉 *Send your question now!* Example:\n_\"agricultural schemes for farmers in Gujarat\"_"
+      },
+      {
+        "role": "user",
+        "content": "Bolo"
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. Mahatama Gandhi Bunkar Bima Yojana*\n📍 Odisha | State\n• Mode: Offline URL: https://handloom.odisha.gov.in\n🔗 https://www.myscheme.gov.in/schemes/mgbby-odisha\n\n*2. Marriage Gift Scheme (APBOCWWB)*\n📍 Andhra Pradesh | State\n• *Financial assistance for marriage: ₹20,000/-.*\n🔗 https://www.myscheme.gov.in/schemes/mgsapbocwwb\n\n*3. Loan for the Purchase of Tools (GBOCWWB)*\n📍 Goa | State\n• Worker Registration Card/Number. - Receipt of Payment of First & Last Subscription with the Board. - Salary Certificat…\n🔗 https://www.myscheme.gov.in/schemes/lpt-gbocwwb\n\n*4. Balri Birth Gift Scheme (P.B.O.C.W.W.B)*\n📍 Punjab | State\n• The &quot;Balri Birth Gift Scheme&#39;&#39; by the BOCW Welfare Board, Department of Labour, Punjab, is a welfare scheme…\n🔗 https://www.myscheme.gov.in/schemes/bbgspbocwwb\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      },
+      {
+        "role": "user",
+        "content": "Location Parker phone kar lena"
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. Chhatraon Ke Liye Protsahan Rashi*\n📍 Rajasthan | State\n• Mode: Online URL: __*Registration*__ *Step-1:* Applicant have to visit the official portal\n• 🔗 https://sso.rajasthan.gov.i…\n🔗 https://www.myscheme.gov.in/schemes/cklpr\n\n*2. Scheme for Assistance on Purchase of Smartphone by the Farmers*\n📍 Gujarat | State\n• Mode: Online URL: > *Contact Us:* Click here\n• 🔗 https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx.\n🔗 https://www.myscheme.gov.in/schemes/sapsf\n\n*3. Naye Fal Bagicho Ki Sthapana*\n📍 Rajasthan | State\n• Mode: Online URL: __*Registration*__ *Step-1:* Applicant have to visit the official portal\n• 🔗 https://sso.rajasthan.gov.i…\n🔗 https://www.myscheme.gov.in/schemes/nfbks\n\n*4. Testing Equipment Scheme*\n📍 Haryana | State\n• Mode: Online URL: __*Registration Process on Antyodaya-SARAL Portal:*__ > __*Login to Apply for the Scheme:*__ > __*Trac…\n🔗 https://www.myscheme.gov.in/schemes/tes\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      },
+      {
+        "role": "user",
+        "content": "Sar kitna time aur lagega aapko"
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. PMMSY: Establishment of small RAS /Biofloc culture system - Haryana*\n📍 Haryana | State\n• Mode: Online URL: 1. __*Registration Process on Antyodaya-SARAL Portal:*__ 2. *Step 1:* Visit the Official Portal: Antyo…\n🔗 https://www.myscheme.gov.in/schemes/eos\n\n*2. Solar Home System (Manohar Jyoti)*\n📍 Haryana | State\n• Mode: Online URL: __*Registration Process on Antyodaya-SARAL Portal:*__ > __*Login to Apply for the Scheme:*__ > __*Trac…\n🔗 https://www.myscheme.gov.in/schemes/sms-mj\n\n*3. Ladli Social Security Allowance Scheme*\n📍 Haryana | State\n• Mode: Offline URL: Mode: Online URL: https://saralharyana.gov.in/# > *Track Your Application/ Appeal* > *SARAL Helpline*…\n🔗 https://www.myscheme.gov.in/schemes/lssas\n\n*4. Aapki Beti Hamari Beti*\n📍 Haryana | State\n• The following will be the eligibility criteria for beneficiaries under the scheme:- 1. All Scheduled Caste families whos…\n🔗 https://www.myscheme.gov.in/schemes/abhb\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      },
+      {
+        "role": "user",
+        "content": "Bolo"
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. Mahatama Gandhi Bunkar Bima Yojana*\n📍 Odisha | State\n• Mode: Offline URL: https://handloom.odisha.gov.in\n🔗 https://www.myscheme.gov.in/schemes/mgbby-odisha\n\n*2. Marriage Gift Scheme (APBOCWWB)*\n📍 Andhra Pradesh | State\n• *Financial assistance for marriage: ₹20,000/-.*\n🔗 https://www.myscheme.gov.in/schemes/mgsapbocwwb\n\n*3. Loan for the Purchase of Tools (GBOCWWB)*\n📍 Goa | State\n• Worker Registration Card/Number. - Receipt of Payment of First & Last Subscription with the Board. - Salary Certificat…\n🔗 https://www.myscheme.gov.in/schemes/lpt-gbocwwb\n\n*4. Balri Birth Gift Scheme (P.B.O.C.W.W.B)*\n📍 Punjab | State\n• The &quot;Balri Birth Gift Scheme&#39;&#39; by the BOCW Welfare Board, Department of Labour, Punjab, is a welfare scheme…\n🔗 https://www.myscheme.gov.in/schemes/bbgspbocwwb\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      }
+    ],
+    "active_scheme_slug": null,
+    "last_search_slugs": [
+      "mgbby-odisha",
+      "mgsapbocwwb",
+      "lpt-gbocwwb",
+      "bbgspbocwwb",
+      "bps",
+      "fambbocwwb"
+    ],
+    "user_profile": {
+      "state": null,
+      "age": null,
+      "gender": null,
+      "category": null,
+      "occupation": null
+    },
+    "updated_at": "2026-07-10T12:15:39.240983+00:00"
+  },
+  "29640173351001@lid": {
+    "chat_id": "29640173351001@lid",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Yes"
+      },
+      {
+        "role": "assistant",
+        "content": "👋 *Namaste! I am GovScheme Assistant* 🇮🇳\n\nYou can ask me about *4,000+ government schemes* from myscheme.gov.in.\n\n*📋 You can ask about schemes in these areas:*\n\n🎓 *Education* — scholarships, student loans, courses\n🌾 *Agriculture* — farmer subsidies, crop loans, PM-KISAN\n💼 *Business* — startup loans, MSME, Stand-Up India\n🛠️ *Skills & Jobs* — training, youth employment\n👩 *Women & Child* — maternity, girl child welfare\n🤝 *Social Welfare* — SC/ST/OBC benefits, pensions\n💰 *Loans & Finance* — bank loans, microfinance\n🏠 *Health & Housing* — insurance, housing support\n\n*💬 You can ask me things like:*\n• \"scholarship for SC students in Karnataka\"\n• \"loan for women entrepreneurs\"\n• \"agricultural schemes in Gujarat\"\n• \"tell me about Stand-Up India\"\n• \"am I eligible? I am 22, SC, Karnataka\"\n• \"compare Stand-Up India vs MUDRA\"\n• \"how to apply for PM-KISAN?\"\n\n*🔎 What I can do:*\nSearch • Details • Eligibility • How to apply • Compare schemes\n\n👉 *Send your question now!* Example:\n_\"agricultural schemes for farmers in Gujarat\"_"
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. Sanctioning of Touch Phone to Hearing Challenged – Speech Impaired*\n📍 Andhra Pradesh | State\n• Mode: Online URL: *Step 01:* The interested student needs to visit the official website\n• 🔗 https://apdascac.ap.gov.in/. *…\n🔗 https://www.myscheme.gov.in/schemes/stphcsi\n\n*2. Mukhyamantri Vishesh Yogyajan Sammaan Pension Yojana*\n📍 Rajasthan | State\n• Q: What is this scheme about? A: The \"Mukhyamantri Vishesh Yogyajan Samman Pension Yojana\" (MVSYS) stands as a testament…\n🔗 https://www.myscheme.gov.in/schemes/mvyspy\n\n*3. Sanctioning of Daisy Players to Visually Challenged*\n📍 Andhra Pradesh | State\n• Eligible beneficiaries of this scheme will be provided with a DAISY Player to facilitate accessible learning and informa…\n🔗 https://www.myscheme.gov.in/schemes/sdpvc\n\n*4. Sanctioning Spectacles to Senior Citizens*\n📍 Andhra Pradesh | State\n• Mode: Online URL: *Step 01:* The interested student needs to visit the official website\n• 🔗 https://apdascac.ap.gov.in/. *…\n🔗 https://www.myscheme.gov.in/schemes/sstsc\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      },
+      {
+        "role": "user",
+        "content": "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"
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. Aama Kuni Pilaa*\n📍 Odisha | State\n• *The key components of the scheme are as listed below:* *Sl. No.*Components*Unit Cost*Specifications*Usage*Point of Dist…\n🔗 https://www.myscheme.gov.in/schemes/akpod\n\n*2. Scheme for Promotion of Manufacturing of Electronic Components and Semiconductors (SPECS)\"*\n📍 All | Central\n• > *Financial Incentive:* • A financial incentive of 25% of eligible capital expenditure is provided to approved units ma…\n🔗 https://www.myscheme.gov.in/schemes/specs\n\n*3. National Family Benefit Scheme - Sikkim*\n📍 Sikkim | State\n• Mode: Offline URL: http://sikkimsocialwelfare.gov.in/wp-content/uploads/2015/12/Application-Form-for-all-pension-schemes…\n🔗 https://www.myscheme.gov.in/schemes/nfbs-sikkim\n\n*4. FOCUS Scheme (Farmers Collectivization For Upscaling Production and Marketing System)*\n📍 Meghalaya | State\n• Mode: Online URL: *Step 1:* Visit the [official website](https://meghalayaone.gov.in/meghalaya-one/view-detail?U2FsdGVkX…\n🔗 https://www.myscheme.gov.in/schemes/focuss\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      },
+      {
+        "role": "user",
+        "content": "Location per Aakar call kar lena"
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. Pathari Kshetr Talab Nirman Aadharit Matsya Paalan ki Yojana*\n📍 Bihar | State\n• Photograph of the Proposed Land - Mobile Number, - Bank Branch Name, Account Number, IFSC code - Attested Copies of Aa…\n🔗 https://www.myscheme.gov.in/schemes/pktnampy\n\n*2. Ghar Ghar Aushodhi Yojana*\n📍 Rajasthan | State\n• 1. Jan-Aadhaar ID. 2. Photograph. 3. Land Proof.\n🔗 https://www.myscheme.gov.in/schemes/ggay\n\n*3. Aapki Beti Yojana*\n📍 Rajasthan | State\n• Mode: Online URL: *To avail of the benefits of the scheme, the parents/guardians need to contact their respective govern…\n🔗 https://www.myscheme.gov.in/schemes/aby\n\n*4. Kam Lagat Pyaaj Bhandaran Sanrachna*\n📍 Rajasthan | State\n• 1. Aadhaar Card/Jan Aadhar Card. 2. Copy of Jamabandi (not more than six months old).\n🔗 https://www.myscheme.gov.in/schemes/klpbs\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      }
+    ],
+    "active_scheme_slug": null,
+    "last_search_slugs": [
+      "pktnampy",
+      "ggay",
+      "aby",
+      "klpbs",
+      "aasra",
+      "asr"
+    ],
+    "user_profile": {
+      "state": null,
+      "age": null,
+      "gender": null,
+      "category": null,
+      "occupation": null
+    },
+    "updated_at": "2026-07-10T12:15:39.683672+00:00"
+  },
+  "205896655315114@lid": {
+    "chat_id": "205896655315114@lid",
+    "messages": [
+      {
+        "role": "user",
+        "content": "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"
+      },
+      {
+        "role": "assistant",
+        "content": "👋 *Namaste! I am GovScheme Assistant* 🇮🇳\n\nYou can ask me about *4,000+ government schemes* from myscheme.gov.in.\n\n*📋 You can ask about schemes in these areas:*\n\n🎓 *Education* — scholarships, student loans, courses\n🌾 *Agriculture* — farmer subsidies, crop loans, PM-KISAN\n💼 *Business* — startup loans, MSME, Stand-Up India\n🛠️ *Skills & Jobs* — training, youth employment\n👩 *Women & Child* — maternity, girl child welfare\n🤝 *Social Welfare* — SC/ST/OBC benefits, pensions\n💰 *Loans & Finance* — bank loans, microfinance\n🏠 *Health & Housing* — insurance, housing support\n\n*💬 You can ask me things like:*\n• \"scholarship for SC students in Karnataka\"\n• \"loan for women entrepreneurs\"\n• \"agricultural schemes in Gujarat\"\n• \"tell me about Stand-Up India\"\n• \"am I eligible? I am 22, SC, Karnataka\"\n• \"compare Stand-Up India vs MUDRA\"\n• \"how to apply for PM-KISAN?\"\n\n*🔎 What I can do:*\nSearch • Details • Eligibility • How to apply • Compare schemes\n\n👉 *Send your question now!* Example:\n_\"agricultural schemes for farmers in Gujarat\"_"
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. Workers for Class 9th to 12th Through National Scholarship (JKBOCWWB)*\n📍 Jammu and Kashmir | State\n• Mode: Online URL: *Registration of a Construction Worker under JKBOCWWB:* Step 1: Go to the J&K Building and Other Const…\n🔗 https://www.myscheme.gov.in/schemes/wfctnsjkbocwwb\n\n*2. Aama Kuni Pilaa*\n📍 Odisha | State\n• *The key components of the scheme are as listed below:* *Sl. No.*Components*Unit Cost*Specifications*Usage*Point of Dist…\n🔗 https://www.myscheme.gov.in/schemes/akpod\n\n*3. Incentive Scheme for MSMEs in Powerloom Sector: State Capital Investment Subsidy*\n📍 West Bengal | State\n• A copy of the Memorandum of Association and Articles of Association authenticated by the Registrar of Companies/ partn…\n🔗 https://www.myscheme.gov.in/schemes/ismpsscis\n\n*4. Balri Birth Gift Scheme (P.B.O.C.W.W.B)*\n📍 Punjab | State\n• Mode: Online - via CSC URL: > __*Registration Process as a Building/ Construction Worker:*__ - For new registration of w…\n🔗 https://www.myscheme.gov.in/schemes/bbgspbocwwb\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      },
+      {
+        "role": "user",
+        "content": "Oil massage 1499\n\nDry massage 1199\n\nB2B massage with happy ending 2499\n\nFull service 3000\n\nNight 7500"
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. Medical Assistance (GBOCWWB)*\n📍 Goa | State\n• Financial Assistance of ₹400/- for the first 5 days. - Financial Assistance of ₹40/- for remaining days, subject to a…\n🔗 https://www.myscheme.gov.in/schemes/ma-gbocwwb\n\n*2. Capacity Building For Service Providers - Entrepreneurship Programme*\n📍 All | Central\n• > *Benefits for the Trainees -* <br> *COURSES* The following 150 Hours courses will be offered in the following five tra…\n🔗 https://www.myscheme.gov.in/schemes/cbsp-ep\n\n*3. Working Women Hostel*\n📍 Haryana | State\n• > *Rental Charges:* - *Single Bedrooms:* Not exceeding 15% of total emoluments/gross salary. - *Double Bedrooms:* Not ex…\n🔗 https://www.myscheme.gov.in/schemes/wwhh\n\n*4. Sero Positive Illness Scheme*\n📍 Gujarat | State\n• <br> Level of Study Day Scholars HostellersStd. 1 to 5 ₹500 (₹50/month for uniform) + ₹1,500 annually-Std. 6 to 10₹1,000…\n🔗 https://www.myscheme.gov.in/schemes/spis\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      }
+    ],
+    "active_scheme_slug": null,
+    "last_search_slugs": [
+      "ma-gbocwwb",
+      "cbsp-ep",
+      "wwhh",
+      "spis",
+      "maanbocwwb",
+      "amapbbocwwb",
+      "hnss",
+      "maftcw"
+    ],
+    "user_profile": {
+      "state": null,
+      "age": null,
+      "gender": null,
+      "category": null,
+      "occupation": null
+    },
+    "updated_at": "2026-07-10T12:15:36.824071+00:00"
+  },
+  "62861762125910@lid": {
+    "chat_id": "62861762125910@lid",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welcome to RBI’s Official WhatsApp Channel! 🌟🏦\n\nThank you for connecting with the Reserve Bank of India (RBI). \n\n✅ Stay informed about RBI guidelines & updates\n\n📢 RBI Kehta Hai... Jaankaar Baniye, Satark Rahiye!\n\nFor official details, visit: rbi.org.in"
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. Jharkhand Krishi Rin Mafi Yojana*\n📍 Jharkhand | State\n• Q: How and who can avail the benefits of the scheme? A: The outstanding amount up to [?]50,000/- in the standard crop lo…\n🔗 https://www.myscheme.gov.in/schemes/jkrmy\n\n*2. Pradhan Mantri Vidyalaxmi (PM-Vidyalaxmi) Scheme*\n📍 All | Central\n• Mode: Online URL: __*REGISTRATION*__ __*Step 1:*__ Visit the Official Website\n• 🔗 https://pmvidyalaxmi.co.in/ of the \"Prad…\n🔗 https://www.myscheme.gov.in/schemes/pmvs\n\n*3. Pradhan Mantri Shram Yogi Maan-dhan*\n📍 All | Central\n• Mode: Online - via CSC URL: __*Step 1:*__ The interested eligible person must visit the nearest Common Services Centre\n• 🔗…\n🔗 https://www.myscheme.gov.in/schemes/pm-sym\n\n*4. Free Coaching Scheme*\n📍 All | Central\n• Mode: Online URL: __*Step-by-Step Online Registration Process:*__ *Step 1:* *Navigate to the official Website:* - Visit…\n🔗 https://www.myscheme.gov.in/schemes/freecoach\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      },
+      {
+        "role": "user",
+        "content": "Welcome to RBI’s Official WhatsApp Channel! 🌟🏦\n\nThank you for connecting with the Reserve Bank of India (RBI). \n\n✅ Stay informed about RBI guidelines & updates\n\n📢 RBI Kehta Hai... Jaankaar Baniye, Satark Rahiye!\n\nFor official details, visit: rbi.org.in"
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. Jharkhand Krishi Rin Mafi Yojana*\n📍 Jharkhand | State\n• Q: How and who can avail the benefits of the scheme? A: The outstanding amount up to [?]50,000/- in the standard crop lo…\n🔗 https://www.myscheme.gov.in/schemes/jkrmy\n\n*2. Pradhan Mantri Vidyalaxmi (PM-Vidyalaxmi) Scheme*\n📍 All | Central\n• Mode: Online URL: __*REGISTRATION*__ __*Step 1:*__ Visit the Official Website\n• 🔗 https://pmvidyalaxmi.co.in/ of the \"Prad…\n🔗 https://www.myscheme.gov.in/schemes/pmvs\n\n*3. Pradhan Mantri Shram Yogi Maan-dhan*\n📍 All | Central\n• Mode: Online - via CSC URL: __*Step 1:*__ The interested eligible person must visit the nearest Common Services Centre\n• 🔗…\n🔗 https://www.myscheme.gov.in/schemes/pm-sym\n\n*4. Free Coaching Scheme*\n📍 All | Central\n• Mode: Online URL: __*Step-by-Step Online Registration Process:*__ *Step 1:* *Navigate to the official Website:* - Visit…\n🔗 https://www.myscheme.gov.in/schemes/freecoach\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      },
+      {
+        "role": "user",
+        "content": "Welcome to RBI’s Official WhatsApp Channel! 🌟🏦\n\nThank you for connecting with the Reserve Bank of India (RBI). \n\n✅ Stay informed about RBI guidelines & updates\n\n📢 RBI Kehta Hai... Jaankaar Baniye, Satark Rahiye!\n\nFor official details, visit: rbi.org.in"
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. Jharkhand Krishi Rin Mafi Yojana*\n📍 Jharkhand | State\n• Q: How and who can avail the benefits of the scheme? A: The outstanding amount up to [?]50,000/- in the standard crop lo…\n🔗 https://www.myscheme.gov.in/schemes/jkrmy\n\n*2. Pradhan Mantri Vidyalaxmi (PM-Vidyalaxmi) Scheme*\n📍 All | Central\n• Mode: Online URL: __*REGISTRATION*__ __*Step 1:*__ Visit the Official Website\n• 🔗 https://pmvidyalaxmi.co.in/ of the \"Prad…\n🔗 https://www.myscheme.gov.in/schemes/pmvs\n\n*3. Pradhan Mantri Shram Yogi Maan-dhan*\n📍 All | Central\n• Mode: Online - via CSC URL: __*Step 1:*__ The interested eligible person must visit the nearest Common Services Centre\n• 🔗…\n🔗 https://www.myscheme.gov.in/schemes/pm-sym\n\n*4. Free Coaching Scheme*\n📍 All | Central\n• Mode: Online URL: __*Step-by-Step Online Registration Process:*__ *Step 1:* *Navigate to the official Website:* - Visit…\n🔗 https://www.myscheme.gov.in/schemes/freecoach\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      },
+      {
+        "role": "user",
+        "content": "Welcome to RBI’s Official WhatsApp Channel! 🌟🏦\n\nThank you for connecting with the Reserve Bank of India (RBI). \n\n✅ Stay informed about RBI guidelines & updates\n\n📢 RBI Kehta Hai... Jaankaar Baniye, Satark Rahiye!\n\nFor official details, visit: rbi.org.in"
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. Jharkhand Krishi Rin Mafi Yojana*\n📍 Jharkhand | State\n• Q: How and who can avail the benefits of the scheme? A: The outstanding amount up to [?]50,000/- in the standard crop lo…\n🔗 https://www.myscheme.gov.in/schemes/jkrmy\n\n*2. Pradhan Mantri Vidyalaxmi (PM-Vidyalaxmi) Scheme*\n📍 All | Central\n• Mode: Online URL: __*REGISTRATION*__ __*Step 1:*__ Visit the Official Website\n• 🔗 https://pmvidyalaxmi.co.in/ of the \"Prad…\n🔗 https://www.myscheme.gov.in/schemes/pmvs\n\n*3. Pradhan Mantri Shram Yogi Maan-dhan*\n📍 All | Central\n• Mode: Online - via CSC URL: __*Step 1:*__ The interested eligible person must visit the nearest Common Services Centre\n• 🔗…\n🔗 https://www.myscheme.gov.in/schemes/pm-sym\n\n*4. Free Coaching Scheme*\n📍 All | Central\n• Mode: Online URL: __*Step-by-Step Online Registration Process:*__ *Step 1:* *Navigate to the official Website:* - Visit…\n🔗 https://www.myscheme.gov.in/schemes/freecoach\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      },
+      {
+        "role": "user",
+        "content": "Welcome to RBI’s Official WhatsApp Channel! 🌟🏦\n\nThank you for connecting with the Reserve Bank of India (RBI). \n\n✅ Stay informed about RBI guidelines & updates\n\n📢 RBI Kehta Hai... Jaankaar Baniye, Satark Rahiye!\n\nFor official details, visit: rbi.org.in"
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. Jharkhand Krishi Rin Mafi Yojana*\n📍 Jharkhand | State\n• Q: How and who can avail the benefits of the scheme? A: The outstanding amount up to [?]50,000/- in the standard crop lo…\n🔗 https://www.myscheme.gov.in/schemes/jkrmy\n\n*2. Pradhan Mantri Vidyalaxmi (PM-Vidyalaxmi) Scheme*\n📍 All | Central\n• Mode: Online URL: __*REGISTRATION*__ __*Step 1:*__ Visit the Official Website\n• 🔗 https://pmvidyalaxmi.co.in/ of the \"Prad…\n🔗 https://www.myscheme.gov.in/schemes/pmvs\n\n*3. Pradhan Mantri Shram Yogi Maan-dhan*\n📍 All | Central\n• Mode: Online - via CSC URL: __*Step 1:*__ The interested eligible person must visit the nearest Common Services Centre\n• 🔗…\n🔗 https://www.myscheme.gov.in/schemes/pm-sym\n\n*4. Free Coaching Scheme*\n📍 All | Central\n• Mode: Online URL: __*Step-by-Step Online Registration Process:*__ *Step 1:* *Navigate to the official Website:* - Visit…\n🔗 https://www.myscheme.gov.in/schemes/freecoach\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      },
+      {
+        "role": "user",
+        "content": "Welcome to RBI’s Official WhatsApp Channel! 🌟🏦\n\nThank you for connecting with the Reserve Bank of India (RBI). \n\n✅ Stay informed about RBI guidelines & updates\n\n📢 RBI Kehta Hai... Jaankaar Baniye, Satark Rahiye!\n\nFor official details, visit: rbi.org.in"
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. Jharkhand Krishi Rin Mafi Yojana*\n📍 Jharkhand | State\n• Q: How and who can avail the benefits of the scheme? A: The outstanding amount up to [?]50,000/- in the standard crop lo…\n🔗 https://www.myscheme.gov.in/schemes/jkrmy\n\n*2. Pradhan Mantri Vidyalaxmi (PM-Vidyalaxmi) Scheme*\n📍 All | Central\n• Mode: Online URL: __*REGISTRATION*__ __*Step 1:*__ Visit the Official Website\n• 🔗 https://pmvidyalaxmi.co.in/ of the \"Prad…\n🔗 https://www.myscheme.gov.in/schemes/pmvs\n\n*3. Pradhan Mantri Shram Yogi Maan-dhan*\n📍 All | Central\n• Mode: Online - via CSC URL: __*Step 1:*__ The interested eligible person must visit the nearest Common Services Centre\n• 🔗…\n🔗 https://www.myscheme.gov.in/schemes/pm-sym\n\n*4. Free Coaching Scheme*\n📍 All | Central\n• Mode: Online URL: __*Step-by-Step Online Registration Process:*__ *Step 1:* *Navigate to the official Website:* - Visit…\n🔗 https://www.myscheme.gov.in/schemes/freecoach\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      }
+    ],
+    "active_scheme_slug": null,
+    "last_search_slugs": [
+      "jkrmy",
+      "pmvs",
+      "pm-sym",
+      "freecoach",
+      "sagb-ac",
+      "smo",
+      "sagb-bc",
+      "sws-pipdic"
+    ],
+    "user_profile": {
+      "state": null,
+      "age": null,
+      "gender": null,
+      "category": null,
+      "occupation": null
+    },
+    "updated_at": "2026-07-10T12:17:25.531111+00:00"
+  },
+  "test-voice-user": {
+    "chat_id": "test-voice-user",
+    "messages": [
+      {
+        "role": "user",
+        "content": "namaste, mujhe kisan yojana ke baare me batao"
+      },
+      {
+        "role": "assistant",
+        "content": "👋 *Namaste! I am GovScheme Assistant* 🇮🇳\n\nYou can ask me about *4,000+ government schemes* from myscheme.gov.in.\n\n*📋 You can ask about schemes in these areas:*\n\n🎓 *Education* — scholarships, student loans, courses\n🌾 *Agriculture* — farmer subsidies, crop loans, PM-KISAN\n💼 *Business* — startup loans, MSME, Stand-Up India\n🛠️ *Skills & Jobs* — training, youth employment\n👩 *Women & Child* — maternity, girl child welfare\n🤝 *Social Welfare* — SC/ST/OBC benefits, pensions\n💰 *Loans & Finance* — bank loans, microfinance\n🏠 *Health & Housing* — insurance, housing support\n\n*💬 You can ask me things like:*\n• \"scholarship for SC students in Karnataka\"\n• \"loan for women entrepreneurs\"\n• \"agricultural schemes in Gujarat\"\n• \"tell me about Stand-Up India\"\n• \"am I eligible? I am 22, SC, Karnataka\"\n• \"compare Stand-Up India vs MUDRA\"\n• \"how to apply for PM-KISAN?\"\n\n*🔎 What I can do:*\nSearch • Details • Eligibility • How to apply • Compare schemes\n\n👉 *Send your question now!* Example:\n_\"agricultural schemes for farmers in Gujarat\"_"
+      }
+    ],
+    "active_scheme_slug": null,
+    "last_search_slugs": [],
+    "user_profile": {
+      "state": null,
+      "age": null,
+      "gender": null,
+      "category": null,
+      "occupation": null
+    },
+    "updated_at": "2026-08-23T05:46:39.704683+00:00"
+  },
+  "test-voice-user-2": {
+    "chat_id": "test-voice-user-2",
+    "messages": [
+      {
+        "role": "user",
+        "content": "agricultural schemes for farmers in Gujarat"
+      },
+      {
+        "role": "assistant",
+        "content": "👋 *Namaste! I am GovScheme Assistant* 🇮🇳\n\nYou can ask me about *4,000+ government schemes* from myscheme.gov.in.\n\n*📋 You can ask about schemes in these areas:*\n\n🎓 *Education* — scholarships, student loans, courses\n🌾 *Agriculture* — farmer subsidies, crop loans, PM-KISAN\n💼 *Business* — startup loans, MSME, Stand-Up India\n🛠️ *Skills & Jobs* — training, youth employment\n👩 *Women & Child* — maternity, girl child welfare\n🤝 *Social Welfare* — SC/ST/OBC benefits, pensions\n💰 *Loans & Finance* — bank loans, microfinance\n🏠 *Health & Housing* — insurance, housing support\n\n*💬 You can ask me things like:*\n• \"scholarship for SC students in Karnataka\"\n• \"loan for women entrepreneurs\"\n• \"agricultural schemes in Gujarat\"\n• \"tell me about Stand-Up India\"\n• \"am I eligible? I am 22, SC, Karnataka\"\n• \"compare Stand-Up India vs MUDRA\"\n• \"how to apply for PM-KISAN?\"\n\n*🔎 What I can do:*\nSearch • Details • Eligibility • How to apply • Compare schemes\n\n👉 *Send your question now!* Example:\n_\"agricultural schemes for farmers in Gujarat\"_"
+      }
+    ],
+    "active_scheme_slug": null,
+    "last_search_slugs": [],
+    "user_profile": {
+      "state": null,
+      "age": null,
+      "gender": null,
+      "category": null,
+      "occupation": null
+    },
+    "updated_at": "2026-08-23T05:47:26.843622+00:00"
+  },
+  "test-voice-user-3": {
+    "chat_id": "test-voice-user-3",
+    "messages": [
+      {
+        "role": "user",
+        "content": "agricultural schemes for farmers in Gujarat"
+      },
+      {
+        "role": "assistant",
+        "content": "👋 *Namaste! I am GovScheme Assistant* 🇮🇳\n\nYou can ask me about *4,000+ government schemes* from myscheme.gov.in.\n\n*📋 You can ask about schemes in these areas:*\n\n🎓 *Education* — scholarships, student loans, courses\n🌾 *Agriculture* — farmer subsidies, crop loans, PM-KISAN\n💼 *Business* — startup loans, MSME, Stand-Up India\n🛠️ *Skills & Jobs* — training, youth employment\n👩 *Women & Child* — maternity, girl child welfare\n🤝 *Social Welfare* — SC/ST/OBC benefits, pensions\n💰 *Loans & Finance* — bank loans, microfinance\n🏠 *Health & Housing* — insurance, housing support\n\n*💬 You can ask me things like:*\n• \"scholarship for SC students in Karnataka\"\n• \"loan for women entrepreneurs\"\n• \"agricultural schemes in Gujarat\"\n• \"tell me about Stand-Up India\"\n• \"am I eligible? I am 22, SC, Karnataka\"\n• \"compare Stand-Up India vs MUDRA\"\n• \"how to apply for PM-KISAN?\"\n\n*🔎 What I can do:*\nSearch • Details • Eligibility • How to apply • Compare schemes\n\n👉 *Send your question now!* Example:\n_\"agricultural schemes for farmers in Gujarat\"_"
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. AGR 3 (Farm Mechanization) Scheme For ST Farmers*\n📍 Gujarat | State\n• The beneficiary will get financial assistance for the purchase of agricultural equipment/components such as Plant prot…\n🔗 https://www.myscheme.gov.in/schemes/agr3fmsstf\n\n*2. AGR 2 (Farm Mechanization) Scheme Of Farmers Other Than SC/ST*\n📍 Gujarat | State\n• The scheme “AGR 2 (Farm Mechanization) Scheme of Farmers Other Than SC/ST” was started by the Department of Agriculture,…\n🔗 https://www.myscheme.gov.in/schemes/agr2fmsfotscst\n\n*3. AGR 4 (Farm Mechanization) Scheme For SC Farmers*\n📍 Gujarat | State\n• Mode: Online URL: https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_SchemeDetails.aspx\n🔗 https://www.myscheme.gov.in/schemes/agr4fmsscf\n\n*4. Scheme to Encourage Farmers to Add Value to Crops*\n📍 Gujarat | State\n• *Financial Assistance:* 50% of the machinery cost or ₹10,00,000/-, whichever is less.\n🔗 https://www.myscheme.gov.in/schemes/sefavc\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      }
+    ],
+    "active_scheme_slug": null,
+    "last_search_slugs": [
+      "agr3fmsstf",
+      "agr2fmsfotscst",
+      "agr4fmsscf",
+      "sefavc"
+    ],
+    "user_profile": {
+      "state": null,
+      "age": null,
+      "gender": null,
+      "category": null,
+      "occupation": null
+    },
+    "updated_at": "2026-08-23T05:48:35.424906+00:00"
+  },
+  "107864026779797@lid": {
+    "chat_id": "107864026779797@lid",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hi"
+      },
+      {
+        "role": "assistant",
+        "content": "Welcome back! 👋\n\nI can help you search schemes, check eligibility, compare options, or guide you on how to apply.\n\nType *help* for examples, or ask your question directly."
+      },
+      {
+        "role": "user",
+        "content": "tell me about the schemes"
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. Bankable Scheme*\n📍 Gujarat | State\n• Mode: Online URL: __*Registration*__ - Visit the Gujarat Scheduled Caste Development Corporation, Gandhinagar official w…\n🔗 https://www.myscheme.gov.in/schemes/bsg\n\n*2. Scheme to Encourage Students for Innovative Projects*\n📍 Puducherry | State\n• The scheme \"Scheme to Encourage Students for Innovative Projects\" was framed by the Department of Science and Technology…\n🔗 https://www.myscheme.gov.in/schemes/sesip\n\n*3. Design Scheme Under MSME Innovative Scheme*\n📍 All | Central\n• The &quot;Design scheme&quot; under the &quot;MSME Innovative Scheme&quot; implemented by the Ministry of Micro, Small &…\n🔗 https://www.myscheme.gov.in/schemes/ds\n\n*4. Sarothi Scheme*\n📍 Assam | State\n• Q: Is the scheme a direct benefit scheme ? A: No Q: Is the scheme benefit available to all age group ? A: Yes Q: Can onl…\n🔗 https://www.myscheme.gov.in/schemes/srs\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      },
+      {
+        "role": "user",
+        "content": "hi"
+      },
+      {
+        "role": "assistant",
+        "content": "Welcome back! 👋\n\nI can help you search schemes, check eligibility, compare options, or guide you on how to apply.\n\nType *help* for examples, or ask your question directly."
+      },
+      {
+        "role": "user",
+        "content": "hi"
+      },
+      {
+        "role": "assistant",
+        "content": "Welcome back! 👋\n\nI can help you search schemes, check eligibility, compare options, or guide you on how to apply.\n\nType *help* for examples, or ask your question directly."
+      },
+      {
+        "role": "user",
+        "content": "hi"
+      },
+      {
+        "role": "assistant",
+        "content": "Welcome back! 👋\n\nI can help you search schemes, check eligibility, compare options, or guide you on how to apply.\n\nType *help* for examples, or ask your question directly."
+      },
+      {
+        "role": "user",
+        "content": "tell me abolut sce\\hemes about education"
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. Scheme For Campus Accommodation & Facilities Enhancing Social Experience*\n📍 All | Central\n• &quot;Scheme for Campus Accommodation &amp; Facilities Enhancing Social Experience (CAFES)&quot; introduced by the All I…\n🔗 https://www.myscheme.gov.in/schemes/scafe\n\n*2. Free Education Scheme*\n📍 Tamil Nadu | State\n• The &quot;Free Education Scheme&quot; launched on 7th May, 2012, by the Backward Classes, Most Backward Classes and Mino…\n🔗 https://www.myscheme.gov.in/schemes/fes\n\n*3. Scheme For Residential Education For Students in High Schools in Targeted Areas (SHRESHTA): Mode 1 - SHRESHTA Schools (Best CBSE Private Residential Schools)*\n📍 All | Central\n• *Scholarship Coverage* School fee including tuition fee and hostel fee including mess charges as per following limits: -…\n🔗 https://www.myscheme.gov.in/schemes/shrestha-m1-ssbcprs\n\n*4. Educational Study Scheme*\n📍 Gujarat | State\n• The &quot;Educational Study Scheme&quot; introduced by the Social Justice and Empowerment Department, Gujarat, aims to s…\n🔗 https://www.myscheme.gov.in/schemes/essg\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      }
+    ],
+    "active_scheme_slug": null,
+    "last_search_slugs": [
+      "scafe",
+      "fes",
+      "shrestha-m1-ssbcprs",
+      "essg",
+      "tce-sc"
+    ],
+    "user_profile": {
+      "state": null,
+      "age": null,
+      "gender": null,
+      "category": null,
+      "occupation": null
+    },
+    "updated_at": "2026-08-23T09:42:46.012617+00:00"
+  },
+  "120363429594783489@g.us": {
+    "chat_id": "120363429594783489@g.us",
+    "messages": [
+      {
+        "role": "user",
+        "content": "https://docs.google.com/document/d/1bhB-CKlnGCkWWcPB1Esv0DpQQdHYQP98yJ68kQbmBL8/edit?usp=sharing"
+      },
+      {
+        "role": "assistant",
+        "content": "👋 *Namaste! I am GovScheme Assistant* 🇮🇳\n\nYou can ask me about *4,000+ government schemes* from myscheme.gov.in.\n\n*📋 You can ask about schemes in these areas:*\n\n🎓 *Education* — scholarships, student loans, courses\n🌾 *Agriculture* — farmer subsidies, crop loans, PM-KISAN\n💼 *Business* — startup loans, MSME, Stand-Up India\n🛠️ *Skills & Jobs* — training, youth employment\n👩 *Women & Child* — maternity, girl child welfare\n🤝 *Social Welfare* — SC/ST/OBC benefits, pensions\n💰 *Loans & Finance* — bank loans, microfinance\n🏠 *Health & Housing* — insurance, housing support\n\n*💬 You can ask me things like:*\n• \"scholarship for SC students in Karnataka\"\n• \"loan for women entrepreneurs\"\n• \"agricultural schemes in Gujarat\"\n• \"tell me about Stand-Up India\"\n• \"am I eligible? I am 22, SC, Karnataka\"\n• \"compare Stand-Up India vs MUDRA\"\n• \"how to apply for PM-KISAN?\"\n\n*🔎 What I can do:*\nSearch • Details • Eligibility • How to apply • Compare schemes\n\n👉 *Send your question now!* Example:\n_\"agricultural schemes for farmers in Gujarat\"_"
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. Sub-mission on Breed Development of Livestock and Poultry*\n📍 All | Central\n• __*A. Documents Related to Project*__ - Detailed project report (DPR)* including cost of project, means of finance, recu…\n🔗 https://www.myscheme.gov.in/schemes/smbdlp\n\n*2. Sanskrit Chhaatr Pratiyogita*\n📍 Uttarakhand | State\n• Documents required in accordance with the competition guidelines.\n🔗 https://www.myscheme.gov.in/schemes/scpdsddsuk\n\n*3. National Livestock Mission: Promotion of Piggery Entrepreneur*\n📍 All | Central\n• __*A. Documents Related to Project*__ - Detailed project report (DPR)* including cost of project, means of finance, recu…\n🔗 https://www.myscheme.gov.in/schemes/ppe\n\n*4. Pradhan Mantri Formalisation Of Micro Food Processing Enterprises*\n📍 All | Central\n• *Checklist for submitting Credit Proposals:* *(New Enterprises- Individual/Firms)* *Mandatory Documents* 1. PAN Card of…\n🔗 https://www.myscheme.gov.in/schemes/pmfmpe\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      },
+      {
+        "role": "user",
+        "content": "Hi @all \n\nPlease fill out Step 1 of the form. \n\nThis step is very important\n\nplease fill it out ASAP"
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. FOCUS Scheme (Farmers Collectivization For Upscaling Production and Marketing System)*\n📍 Meghalaya | State\n• Mode: Online URL: *Step 1:* Visit the [official website](https://meghalayaone.gov.in/meghalaya-one/view-detail?U2FsdGVkX…\n🔗 https://www.myscheme.gov.in/schemes/focuss\n\n*2. One Tea Scheme*\n📍 Meghalaya | State\n• Mode: Online URL: *Step 1:* Visit the [official website](https://meghalayaone.gov.in/meghalaya-one/view-detail?U2FsdGVkX…\n🔗 https://www.myscheme.gov.in/schemes/otsm\n\n*3. Prime Small Enterprise Empowerment and Development(SEED) Scheme*\n📍 Meghalaya | State\n• Mode: Online URL: __*Citizen Registration for Member ID*__ *Step 1:* Visit the [official website ](https://meghalayaone.…\n🔗 https://www.myscheme.gov.in/schemes/pseeads\n\n*4. Anya Pichhda Varg Kalyan Chhatravaas*\n📍 Bihar | State\n• Mode: Offline URL: __*Step 1:*__ The interested applicant should visit (during office hours) the Principal of the colleg…\n🔗 https://www.myscheme.gov.in/schemes/apvkc\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      }
+    ],
+    "active_scheme_slug": null,
+    "last_search_slugs": [
+      "focuss",
+      "otsm",
+      "pseeads",
+      "apvkc",
+      "astpss",
+      "msws",
+      "cs-tn",
+      "mabvs"
+    ],
+    "user_profile": {
+      "state": null,
+      "age": null,
+      "gender": null,
+      "category": null,
+      "occupation": null
+    },
+    "updated_at": "2026-08-23T06:18:58.652961+00:00"
+  },
+  "voice-default": {
+    "chat_id": "voice-default",
+    "messages": [
+      {
+        "role": "user",
+        "content": "kisan yojana batao"
+      },
+      {
+        "role": "assistant",
+        "content": "👋 *Namaste! I am GovScheme Assistant* 🇮🇳\n\nYou can ask me about *4,000+ government schemes* from myscheme.gov.in.\n\n*📋 You can ask about schemes in these areas:*\n\n🎓 *Education* — scholarships, student loans, courses\n🌾 *Agriculture* — farmer subsidies, crop loans, PM-KISAN\n💼 *Business* — startup loans, MSME, Stand-Up India\n🛠️ *Skills & Jobs* — training, youth employment\n👩 *Women & Child* — maternity, girl child welfare\n🤝 *Social Welfare* — SC/ST/OBC benefits, pensions\n💰 *Loans & Finance* — bank loans, microfinance\n🏠 *Health & Housing* — insurance, housing support\n\n*💬 You can ask me things like:*\n• \"scholarship for SC students in Karnataka\"\n• \"loan for women entrepreneurs\"\n• \"agricultural schemes in Gujarat\"\n• \"tell me about Stand-Up India\"\n• \"am I eligible? I am 22, SC, Karnataka\"\n• \"compare Stand-Up India vs MUDRA\"\n• \"how to apply for PM-KISAN?\"\n\n*🔎 What I can do:*\nSearch • Details • Eligibility • How to apply • Compare schemes\n\n👉 *Send your question now!* Example:\n_\"agricultural schemes for farmers in Gujarat\"_"
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. Kisan Kaleva Yojana*\n📍 Rajasthan | State\n• 1. The scheme aims to provide affordable and nutritious meals to farmers and their helpers at a subsidized rate of ₹5/-…\n🔗 https://www.myscheme.gov.in/schemes/kky\n\n*2. Kishan Kalpvriksh Yojana (Scheme for Assistance to APMCs to Provide Basic and Modern Facilities) (Tribal)*\n📍 Gujarat | State\n• 1. Permission Letter for Building Construction. 2. Quotations.\n🔗 https://www.myscheme.gov.in/schemes/kkyaabmt\n\n*3. Readymade Kichan Sahaayata Yojana*\n📍 Chhattisgarh | State\n• Mode: Online URL: __*Unregistered Applicant :*__ 1. All the applicant have to visit the official website\n• 🔗 https://cglab…\n🔗 https://www.myscheme.gov.in/schemes/rksy\n\n*4. Kantedar Tarbandi Yojana*\n📍 Rajasthan | State\n• 1. This scheme is available to all categories of farmers. 1. For individual farmers and farmer groups, the applicant mus…\n🔗 https://www.myscheme.gov.in/schemes/kkt\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      }
+    ],
+    "active_scheme_slug": null,
+    "last_search_slugs": [
+      "kky",
+      "kkyaabmt",
+      "rksy",
+      "kkt"
+    ],
+    "user_profile": {
+      "state": null,
+      "age": null,
+      "gender": null,
+      "category": null,
+      "occupation": null
+    },
+    "updated_at": "2026-08-23T06:36:26.304457+00:00"
+  },
+  "57145395523746@lid": {
+    "chat_id": "57145395523746@lid",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hi LOKESH KUMAR, we have received your payment of INR 1,000.00. Your updated balance is INR 1,025.00. Thank you for using Vobiz."
+      },
+      {
+        "role": "assistant",
+        "content": "👋 *Namaste! I am GovScheme Assistant* 🇮🇳\n\nYou can ask me about *4,000+ government schemes* from myscheme.gov.in.\n\n*📋 You can ask about schemes in these areas:*\n\n🎓 *Education* — scholarships, student loans, courses\n🌾 *Agriculture* — farmer subsidies, crop loans, PM-KISAN\n💼 *Business* — startup loans, MSME, Stand-Up India\n🛠️ *Skills & Jobs* — training, youth employment\n👩 *Women & Child* — maternity, girl child welfare\n🤝 *Social Welfare* — SC/ST/OBC benefits, pensions\n💰 *Loans & Finance* — bank loans, microfinance\n🏠 *Health & Housing* — insurance, housing support\n\n*💬 You can ask me things like:*\n• \"scholarship for SC students in Karnataka\"\n• \"loan for women entrepreneurs\"\n• \"agricultural schemes in Gujarat\"\n• \"tell me about Stand-Up India\"\n• \"am I eligible? I am 22, SC, Karnataka\"\n• \"compare Stand-Up India vs MUDRA\"\n• \"how to apply for PM-KISAN?\"\n\n*🔎 What I can do:*\nSearch • Details • Eligibility • How to apply • Compare schemes\n\n👉 *Send your question now!* Example:\n_\"agricultural schemes for farmers in Gujarat\"_"
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. LIDCOM Margin Money Loan Scheme*\n📍 Maharashtra | State\n• Mode: Offline URL: *Step 1: *Take the format of the application form from the District Office\n• 🔗 https://lidcom.co.in/con…\n🔗 https://www.myscheme.gov.in/schemes/lmmls\n\n*2. Bidya Lakshmi Loan*\n📍 Assam | State\n• The State Government provides a loan of ₹5,00,000/- to ₹10,00,000/- at an interest rate of 4%. - Employees with an ann…\n🔗 https://www.myscheme.gov.in/schemes/bll\n\n*3. Assistance for Purchase of Bi-cycle (O.B.O.C.W.W.B)*\n📍 Odisha | State\n• Mode: Online URL: > __*Registration Process as a Building/ Construction Worker:*__ > __*Application Process of the Welfa…\n🔗 https://www.myscheme.gov.in/schemes/afpobbocwwb\n\n*4. LIDCOM 50% Subsidy Scheme*\n📍 Maharashtra | State\n• Mode: Offline URL: *Step 1: *Take the format of the application form from the District Office\n• 🔗 https://lidcom.co.in/con…\n🔗 https://www.myscheme.gov.in/schemes/l50ss\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      },
+      {
+        "role": "user",
+        "content": "Hi LOKESH KUMAR, your Vobiz account balance is running low: INR 425.00 remaining. Please recharge to avoid service interruption."
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. Pradhan Mantri Vidyalaxmi (PM-Vidyalaxmi) Scheme*\n📍 All | Central\n• Mode: Online URL: __*REGISTRATION*__ __*Step 1:*__ Visit the Official Website\n• 🔗 https://pmvidyalaxmi.co.in/ of the \"Prad…\n🔗 https://www.myscheme.gov.in/schemes/pmvs\n\n*2. Vishist Coaching Scheme (GBOCWWB)*\n📍 Gujarat | State\n• Mode: Online URL: > __*Application Process for ‘E-Nirman Card’ under the GBOCWWB:*__ > __*Process to track Application S…\n🔗 https://www.myscheme.gov.in/schemes/vcsgbocwwb\n\n*3. LIDCOM Margin Money Loan Scheme*\n📍 Maharashtra | State\n• Mode: Offline URL: *Step 1: *Take the format of the application form from the District Office\n• 🔗 https://lidcom.co.in/con…\n🔗 https://www.myscheme.gov.in/schemes/lmmls\n\n*4. LIDCOM 50% Subsidy Scheme*\n📍 Maharashtra | State\n• Mode: Offline URL: *Step 1: *Take the format of the application form from the District Office\n• 🔗 https://lidcom.co.in/con…\n🔗 https://www.myscheme.gov.in/schemes/l50ss\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      },
+      {
+        "role": "user",
+        "content": "Hi LOKESH KUMAR, your Vobiz account balance is running low: INR 425.00 remaining. Please recharge to avoid service interruption."
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. Pradhan Mantri Vidyalaxmi (PM-Vidyalaxmi) Scheme*\n📍 All | Central\n• Mode: Online URL: __*REGISTRATION*__ __*Step 1:*__ Visit the Official Website\n• 🔗 https://pmvidyalaxmi.co.in/ of the \"Prad…\n🔗 https://www.myscheme.gov.in/schemes/pmvs\n\n*2. Vishist Coaching Scheme (GBOCWWB)*\n📍 Gujarat | State\n• Mode: Online URL: > __*Application Process for ‘E-Nirman Card’ under the GBOCWWB:*__ > __*Process to track Application S…\n🔗 https://www.myscheme.gov.in/schemes/vcsgbocwwb\n\n*3. LIDCOM Margin Money Loan Scheme*\n📍 Maharashtra | State\n• Mode: Offline URL: *Step 1: *Take the format of the application form from the District Office\n• 🔗 https://lidcom.co.in/con…\n🔗 https://www.myscheme.gov.in/schemes/lmmls\n\n*4. LIDCOM 50% Subsidy Scheme*\n📍 Maharashtra | State\n• Mode: Offline URL: *Step 1: *Take the format of the application form from the District Office\n• 🔗 https://lidcom.co.in/con…\n🔗 https://www.myscheme.gov.in/schemes/l50ss\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      }
+    ],
+    "active_scheme_slug": null,
+    "last_search_slugs": [
+      "pmvs",
+      "vcsgbocwwb",
+      "lmmls",
+      "l50ss",
+      "fapbov",
+      "tsgtkvn",
+      "bauuyapcc"
+    ],
+    "user_profile": {
+      "state": null,
+      "age": null,
+      "gender": null,
+      "category": null,
+      "occupation": null
+    },
+    "updated_at": "2026-08-23T06:42:10.042990+00:00"
+  },
+  "120363229488679868@newsletter": {
+    "chat_id": "120363229488679868@newsletter",
+    "messages": [
+      {
+        "role": "user",
+        "content": "*Last 8 Hours Remaining!*\n\nBuild your career in the most in-demand field of 2026.\nAverage Salary: 17 LPA (6Figr.com) \n\nWith *iHub IIT Patna's Analytics with Agentic AI.*\n \n- 6 months live sessions\n- Master Analytics with AI with hands-on projects\n- Structured Placement Support. \n\nEntry: Online Entrance Test (23rd August)\n\n*Register before the admission closes!*"
+      },
+      {
+        "role": "assistant",
+        "content": "👋 *Namaste! I am GovScheme Assistant* 🇮🇳\n\nYou can ask me about *4,000+ government schemes* from myscheme.gov.in.\n\n*📋 You can ask about schemes in these areas:*\n\n🎓 *Education* — scholarships, student loans, courses\n🌾 *Agriculture* — farmer subsidies, crop loans, PM-KISAN\n💼 *Business* — startup loans, MSME, Stand-Up India\n🛠️ *Skills & Jobs* — training, youth employment\n👩 *Women & Child* — maternity, girl child welfare\n🤝 *Social Welfare* — SC/ST/OBC benefits, pensions\n💰 *Loans & Finance* — bank loans, microfinance\n🏠 *Health & Housing* — insurance, housing support\n\n*💬 You can ask me things like:*\n• \"scholarship for SC students in Karnataka\"\n• \"loan for women entrepreneurs\"\n• \"agricultural schemes in Gujarat\"\n• \"tell me about Stand-Up India\"\n• \"am I eligible? I am 22, SC, Karnataka\"\n• \"compare Stand-Up India vs MUDRA\"\n• \"how to apply for PM-KISAN?\"\n\n*🔎 What I can do:*\nSearch • Details • Eligibility • How to apply • Compare schemes\n\n👉 *Send your question now!* Example:\n_\"agricultural schemes for farmers in Gujarat\"_"
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. Dastkar Prashikshan (I.T.I)*\n📍 Uttarakhand | State\n• Mode: Online URL: - The department announces the ITI admission process through advertisements. Admissions are conducted…\n🔗 https://www.myscheme.gov.in/schemes/dpiti\n\n*2. Internship Scheme By The Unique Identification Authority Of India (UIDAI)*\n📍 All | Central\n• Mode: Online URL: Interested and eligible students need to Email their duly filled and signed application form in the pr…\n🔗 https://www.myscheme.gov.in/schemes/isuidai\n\n*3. Quality Improvement Programme (QIP)*\n📍 All | Central\n• Mode: Online URL: *Step 1: Application* - Faculty Members of AICTE approved Institutions should visit the Official Websi…\n🔗 https://www.myscheme.gov.in/schemes/qip\n\n*4. NITI Internship Scheme*\n📍 All | Central\n• Mode: Online URL: https://workforindia.niti.gov.in/intern/InternshipEntry/PCInternshipEntry.aspx 1. Visit the official w…\n🔗 https://www.myscheme.gov.in/schemes/niti-i\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      }
+    ],
+    "active_scheme_slug": null,
+    "last_search_slugs": [
+      "dpiti",
+      "isuidai",
+      "qip",
+      "niti-i",
+      "fspip",
+      "spuac",
+      "tcmitfp",
+      "ay"
+    ],
+    "user_profile": {
+      "state": null,
+      "age": null,
+      "gender": null,
+      "category": null,
+      "occupation": null
+    },
+    "updated_at": "2026-08-23T06:52:12.232943+00:00"
+  },
+  "120363425993322408@newsletter": {
+    "chat_id": "120363425993322408@newsletter",
+    "messages": [
+      {
+        "role": "user",
+        "content": "*A brother once wrote that he put his entire savings into fixing this. His words: 'my last hope.'*\n\nTwenty years old. Everything he had.\n\nSome people would read that and see desperation.\n\nI read it and see the exact moment a man's life turns.\n\nBecause here is what 'last hope' actually means. It means he stopped negotiating. No more 'I will try for free first.' No more 'let me see for a few months.' No more keeping one foot out the door.\n\nAll in. Burn the boats.\n\nAnd that decision.. separate from any program, any method, any community.. is often the thing that changes everything. The commitment itself rewires the fight. A man with an exit plan fights differently than a man without one.\n\nI am not telling you to empty your savings. Listen carefully. That is not the point.\n\nThe point is the question.\n\nHave you actually decided? Fully? With no side door open?\n\nBecause if you have not.. that is why nothing has held."
+      },
+      {
+        "role": "assistant",
+        "content": "👋 *Namaste! I am GovScheme Assistant* 🇮🇳\n\nYou can ask me about *4,000+ government schemes* from myscheme.gov.in.\n\n*📋 You can ask about schemes in these areas:*\n\n🎓 *Education* — scholarships, student loans, courses\n🌾 *Agriculture* — farmer subsidies, crop loans, PM-KISAN\n💼 *Business* — startup loans, MSME, Stand-Up India\n🛠️ *Skills & Jobs* — training, youth employment\n👩 *Women & Child* — maternity, girl child welfare\n🤝 *Social Welfare* — SC/ST/OBC benefits, pensions\n💰 *Loans & Finance* — bank loans, microfinance\n🏠 *Health & Housing* — insurance, housing support\n\n*💬 You can ask me things like:*\n• \"scholarship for SC students in Karnataka\"\n• \"loan for women entrepreneurs\"\n• \"agricultural schemes in Gujarat\"\n• \"tell me about Stand-Up India\"\n• \"am I eligible? I am 22, SC, Karnataka\"\n• \"compare Stand-Up India vs MUDRA\"\n• \"how to apply for PM-KISAN?\"\n\n*🔎 What I can do:*\nSearch • Details • Eligibility • How to apply • Compare schemes\n\n👉 *Send your question now!* Example:\n_\"agricultural schemes for farmers in Gujarat\"_"
+      },
+      {
+        "role": "assistant",
+        "content": "✅ *Found 4 scheme(s):*\n\n\n*1. Scheme for Economic Empowerment of De-notified, Nomadic and Semi-Nomadic Tribes - \"Educational Empowerment\" Component*\n📍 All | Central\n• Mode: Online URL: *(The applicants are advised to monitor the portal during the two annual application windows - July an…\n🔗 https://www.myscheme.gov.in/schemes/seed-ee\n\n*2. Barbershop Renovation Grant*\n📍 Kerala | State\n• > *Introduction:* The traditional barbers are one of the most backward communities in Kerala. In the transformed modern…\n🔗 https://www.myscheme.gov.in/schemes/brg\n\n*3. Scheme For Assistance For Start Ups/ Innovation*\n📍 Gujarat | State\n• *Component:* *Assistance for Seed Support* * 1. Pitch presentation with the following details: - Problem statement - Obj…\n🔗 https://www.myscheme.gov.in/schemes/sasi\n\n*4. Motivation Of Unemployed Persons To Start Self-Employed Enterprises Scheme*\n📍 Puducherry | State\n• Mode: Offline URL: https://dic.py.gov.in/sites/default/files/mupses.pdf\n🔗 https://www.myscheme.gov.in/schemes/mupsese\n\n\n👆 Reply *1*, *2*, *3*, *4* for full details."
+      },
+      {
+        "role": "user",
+        "content": "*A brother once wrote that he put his entire savings into fixing this. His words: 'my last hope.'*\n\nTwenty years old. Everything he had.\n\nSome people would read that and see desperation.\n\nI read it and see the exact moment a man's life turns.\n\nBecause here is what 'last hope' actually means. It means he stopped negotiating. No more 'I will try for free first.' No more 'let me see for a few months.' No more keeping one foot out the door.\n\nAll in. Burn the boats.\n\nAnd that decision.. separate from any program, any method, any community.. is often the thing that changes everything. The commitment itself rewires the fight. A man with an exit plan fights differently than a man without one.\n\nI am not telling you to empty your savings. Listen carefully. That is not the point.\n\nThe point is the question.\n\nHave you actually decided? Fully? With no side door open?\n\nBecause if you have not.. that is why nothing has held."
+      },
+      {
+        "role": "assistant",
+        "content": "*GovScheme Assistant — What I can do*\n\n🔍 *Search* — find schemes by need, state, or category\n📋 *Details* — full info about a specific scheme\n✅ *Eligibility* — check if you qualify\n⚖️ *Compare* — compare two or more schemes\n📝 *Apply* — application steps and documents\n\n*Examples:*\n• loan for women entrepreneurs\n• education schemes in Tamil Nadu\n• compare Stand-Up India and MUDRA\n• am I eligible? (after viewing a scheme)\n\nType *hi* to start over."
+      }
+    ],
+    "active_scheme_slug": null,
+    "last_search_slugs": [
+      "seed-ee",
+      "brg",
+      "sasi",
+      "mupsese",
+      "sr",
+      "mupssee",
+      "fadtpkaatc"
+    ],
+    "user_profile": {
+      "state": null,
+      "age": null,
+      "gender": null,
+      "category": null,
+      "occupation": null
+    },
+    "updated_at": "2026-08-23T07:14:15.295618+00:00"
+  },
+  "local-hi-verify-xyz2": {
+    "chat_id": "local-hi-verify-xyz2",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hi"
+      },
+      {
+        "role": "assistant",
+        "content": "👋 *Namaste! I am GovScheme Assistant* 🇮🇳\n\nYou can ask me about *4,000+ government schemes* from myscheme.gov.in.\n\n*📋 You can ask about schemes in these areas:*\n\n🎓 *Education* — scholarships, student loans, courses\n🌾 *Agriculture* — farmer subsidies, crop loans, PM-KISAN\n💼 *Business* — startup loans, MSME, Stand-Up India\n🛠️ *Skills & Jobs* — training, youth employment\n👩 *Women & Child* — maternity, girl child welfare\n🤝 *Social Welfare* — SC/ST/OBC benefits, pensions\n💰 *Loans & Finance* — bank loans, microfinance\n🏠 *Health & Housing* — insurance, housing support\n\n*💬 You can ask me things like:*\n• \"scholarship for SC students in Karnataka\"\n• \"loan for women entrepreneurs\"\n• \"agricultural schemes in Gujarat\"\n• \"tell me about Stand-Up India\"\n• \"am I eligible? I am 22, SC, Karnataka\"\n• \"compare Stand-Up India vs MUDRA\"\n• \"how to apply for PM-KISAN?\"\n\n*🔎 What I can do:*\nSearch • Details • Eligibility • How to apply • Compare schemes\n\n👉 *Send your question now!* Example:\n_\"agricultural schemes for farmers in Gujarat\"_"
+      }
+    ],
+    "active_scheme_slug": null,
+    "last_search_slugs": [],
+    "user_profile": {
+      "state": null,
+      "age": null,
+      "gender": null,
+      "category": null,
+      "occupation": null
+    },
+    "updated_at": "2026-08-23T08:54:44.261394+00:00"
+  },
+  "local-handler-hi@lid": {
+    "chat_id": "local-handler-hi@lid",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hi"
+      },
+      {
+        "role": "assistant",
+        "content": "👋 *Namaste! I am GovScheme Assistant* 🇮🇳\n\nYou can ask me about *4,000+ government schemes* from myscheme.gov.in.\n\n*📋 You can ask about schemes in these areas:*\n\n🎓 *Education* — scholarships, student loans, courses\n🌾 *Agriculture* — farmer subsidies, crop loans, PM-KISAN\n💼 *Business* — startup loans, MSME, Stand-Up India\n🛠️ *Skills & Jobs* — training, youth employment\n👩 *Women & Child* — maternity, girl child welfare\n🤝 *Social Welfare* — SC/ST/OBC benefits, pensions\n💰 *Loans & Finance* — bank loans, microfinance\n🏠 *Health & Housing* — insurance, housing support\n\n*💬 You can ask me things like:*\n• \"scholarship for SC students in Karnataka\"\n• \"loan for women entrepreneurs\"\n• \"agricultural schemes in Gujarat\"\n• \"tell me about Stand-Up India\"\n• \"am I eligible? I am 22, SC, Karnataka\"\n• \"compare Stand-Up India vs MUDRA\"\n• \"how to apply for PM-KISAN?\"\n\n*🔎 What I can do:*\nSearch • Details • Eligibility • How to apply • Compare schemes\n\n👉 *Send your question now!* Example:\n_\"agricultural schemes for farmers in Gujarat\"_"
+      },
+      {
+        "role": "user",
+        "content": "hi"
+      },
+      {
+        "role": "assistant",
+        "content": "Welcome back! 👋\n\nI can help you search schemes, check eligibility, compare options, or guide you on how to apply.\n\nType *help* for examples, or ask your question directly."
+      }
+    ],
+    "active_scheme_slug": null,
+    "last_search_slugs": [],
+    "user_profile": {
+      "state": null,
+      "age": null,
+      "gender": null,
+      "category": null,
+      "occupation": null
+    },
+    "updated_at": "2026-08-23T08:54:44.265915+00:00"
+  },
+  "local-curl-hi@lid": {
+    "chat_id": "local-curl-hi@lid",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hi"
+      },
+      {
+        "role": "assistant",
+        "content": "👋 *Namaste! I am GovScheme Assistant* 🇮🇳\n\nYou can ask me about *4,000+ government schemes* from myscheme.gov.in.\n\n*📋 You can ask about schemes in these areas:*\n\n🎓 *Education* — scholarships, student loans, courses\n🌾 *Agriculture* — farmer subsidies, crop loans, PM-KISAN\n💼 *Business* — startup loans, MSME, Stand-Up India\n🛠️ *Skills & Jobs* — training, youth employment\n👩 *Women & Child* — maternity, girl child welfare\n🤝 *Social Welfare* — SC/ST/OBC benefits, pensions\n💰 *Loans & Finance* — bank loans, microfinance\n🏠 *Health & Housing* — insurance, housing support\n\n*💬 You can ask me things like:*\n• \"scholarship for SC students in Karnataka\"\n• \"loan for women entrepreneurs\"\n• \"agricultural schemes in Gujarat\"\n• \"tell me about Stand-Up India\"\n• \"am I eligible? I am 22, SC, Karnataka\"\n• \"compare Stand-Up India vs MUDRA\"\n• \"how to apply for PM-KISAN?\"\n\n*🔎 What I can do:*\nSearch • Details • Eligibility • How to apply • Compare schemes\n\n👉 *Send your question now!* Example:\n_\"agricultural schemes for farmers in Gujarat\"_"
+      }
+    ],
+    "active_scheme_slug": null,
+    "last_search_slugs": [],
+    "user_profile": {
+      "state": null,
+      "age": null,
+      "gender": null,
+      "category": null,
+      "occupation": null
+    },
+    "updated_at": "2026-08-23T08:54:50.818245+00:00"
+  },
+  "local-curl-sent@lid": {
+    "chat_id": "local-curl-sent@lid",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hi"
+      },
+      {
+        "role": "assistant",
+        "content": "👋 *Namaste! I am GovScheme Assistant* 🇮🇳\n\nYou can ask me about *4,000+ government schemes* from myscheme.gov.in.\n\n*📋 You can ask about schemes in these areas:*\n\n🎓 *Education* — scholarships, student loans, courses\n🌾 *Agriculture* — farmer subsidies, crop loans, PM-KISAN\n💼 *Business* — startup loans, MSME, Stand-Up India\n🛠️ *Skills & Jobs* — training, youth employment\n👩 *Women & Child* — maternity, girl child welfare\n🤝 *Social Welfare* — SC/ST/OBC benefits, pensions\n💰 *Loans & Finance* — bank loans, microfinance\n🏠 *Health & Housing* — insurance, housing support\n\n*💬 You can ask me things like:*\n• \"scholarship for SC students in Karnataka\"\n• \"loan for women entrepreneurs\"\n• \"agricultural schemes in Gujarat\"\n• \"tell me about Stand-Up India\"\n• \"am I eligible? I am 22, SC, Karnataka\"\n• \"compare Stand-Up India vs MUDRA\"\n• \"how to apply for PM-KISAN?\"\n\n*🔎 What I can do:*\nSearch • Details • Eligibility • How to apply • Compare schemes\n\n👉 *Send your question now!* Example:\n_\"agricultural schemes for farmers in Gujarat\"_"
+      }
+    ],
+    "active_scheme_slug": null,
+    "last_search_slugs": [],
+    "user_profile": {
+      "state": null,
+      "age": null,
+      "gender": null,
+      "category": null,
+      "occupation": null
+    },
+    "updated_at": "2026-08-23T08:54:50.884220+00:00"
+  },
+  "welcome-first-verify-aug23": {
+    "chat_id": "welcome-first-verify-aug23",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hi"
+      },
+      {
+        "role": "assistant",
+        "content": "👋 *Namaste! I am GovScheme Assistant* 🇮🇳\n\nYou can ask me about *government schemes* in these 4 areas:\n\n🌾 *Agriculture* — farmer subsidies, crop loans, PM-KISAN\n🎓 *Education* — scholarships, student loans, courses\n💰 *Loan* — bank loans, credit schemes, Stand-Up India\n🏦 *Finance* — insurance, savings, financial support\n\n*Try asking:*\n• \"agricultural schemes in Gujarat\"\n• \"scholarship for students in Karnataka\"\n• \"loan for women entrepreneurs\"\n• \"PMJJBY insurance scheme\"\n\nSearch • Details • Eligibility • How to apply • Compare\n\n👉 *Send your question now!*"
+      },
+      {
+        "role": "user",
+        "content": "hi"
+      },
+      {
+        "role": "assistant",
+        "content": "Welcome back! 👋\n\nI can help you search schemes, check eligibility, compare options, or guide you on how to apply.\n\nType *help* for examples, or ask your question directly."
+      }
+    ],
+    "active_scheme_slug": null,
+    "last_search_slugs": [],
+    "user_profile": {
+      "state": null,
+      "age": null,
+      "gender": null,
+      "category": null,
+      "occupation": null
+    },
+    "updated_at": "2026-08-23T08:57:41.388907+00:00"
+  },
+  "welcome-first-query-aug23": {
+    "chat_id": "welcome-first-query-aug23",
+    "messages": [
+      {
+        "role": "user",
+        "content": "PM-KISAN"
+      },
+      {
+        "role": "assistant",
+        "content": "👋 *Namaste! I am GovScheme Assistant* 🇮🇳\n\nYou can ask me about *government schemes* in these 4 areas:\n\n🌾 *Agriculture* — farmer subsidies, crop loans, PM-KISAN\n🎓 *Education* — scholarships, student loans, courses\n💰 *Loan* — bank loans, credit schemes, Stand-Up India\n🏦 *Finance* — insurance, savings, financial support\n\n*Try asking:*\n• \"agricultural schemes in Gujarat\"\n• \"scholarship for students in Karnataka\"\n• \"loan for women entrepreneurs\"\n• \"PMJJBY insurance scheme\"\n\nSearch • Details • Eligibility • How to apply • Compare\n\n👉 *Send your question now!*"
+      }
+    ],
+    "active_scheme_slug": null,
+    "last_search_slugs": [],
+    "user_profile": {
+      "state": null,
+      "age": null,
+      "gender": null,
+      "category": null,
+      "occupation": null
+    },
+    "updated_at": "2026-08-23T08:57:41.386054+00:00"
+  }
+}
